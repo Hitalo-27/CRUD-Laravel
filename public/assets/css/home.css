@@ -1,0 +1,40 @@
+section{
+    height: 100vh;
+}
+
+.home{
+    margin-top: 10%;
+}
+
+.logo{
+    width: 8%;
+    margin-bottom: 3%;
+}
+
+
+.h1home{
+    font-size: 33px;
+    margin-bottom: 1%;
+}
+
+.h1home2{
+    font-size: 33px;
+    margin-bottom: 3%;
+}
+
+.button{
+    background: transparent;
+    border-radius: 5px;
+    color: #ff2d20;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ff2d20;
+    text-decoration: none;
+}
+
+.button:hover{
+    background: #ff2d20;
+    color: #fff;
+}
